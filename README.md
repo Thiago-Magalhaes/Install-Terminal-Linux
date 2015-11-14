@@ -24,7 +24,7 @@
 
 ## P
 * [PHP5] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/PHP5.md)
-* [PhpMyAdmin] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/phpMyAdmin.md)
+* [PhpMyAdmin] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/PhpMyAdmin.md)
 
 
 ## S
