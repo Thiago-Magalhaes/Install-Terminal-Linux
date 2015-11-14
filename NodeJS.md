@@ -8,7 +8,7 @@ sudo apt-get install git-core
 
 Rode os seguintes comandos:
 
-git clone git://github.com/ry/node.git
+git clone https://github.com/nodejs/node.git
 cd node
 ./configure
 make
