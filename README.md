@@ -10,11 +10,19 @@
 * [Code::Blocks] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/Code::Blocks.md)
 
 
+## E
+* [Eclipse] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/Eclipse.md)
+
+
 ## F
 * [FileZilla] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/FileZilla.md)
 
 ## G
 * [GitHub] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/GitHub.md)
+
+
+## J
+* [JDK] (https://github.com/Thiago-Magalhaes/Install-Terminal-Linux/blob/master/Jdk.md)
 
 
 ## M
